@@ -1,0 +1,357 @@
+.character_hero {
+    width: 10.15rem;
+    height: 17.3rem;
+    background: url("test-ss.png") -14.3rem -0rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.character_evil {
+    width: 14.3rem;
+    height: 17.75rem;
+    background: url("test-ss.png") -0rem -0rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_crash_02 {
+    width: 14.35rem;
+    height: 8.7rem;
+    background: url("test-ss.png") -24.45rem -0rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_crash_03 {
+    width: 14.35rem;
+    height: 8.7rem;
+    background: url("test-ss.png") -24.45rem -8.7rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_crash_04 {
+    width: 14.35rem;
+    height: 8.7rem;
+    background: url("test-ss.png") -0rem -17.75rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_crash_01 {
+    width: 14.35rem;
+    height: 8.7rem;
+    background: url("test-ss.png") -14.35rem -17.75rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.ship_giant_full {
+    width: 9.95rem;
+    height: 10.9rem;
+    background: url("test-ss.png") -0rem -26.45rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_boom_02 {
+    width: 9.5rem;
+    height: 6rem;
+    background: url("test-ss.png") -28.7rem -17.75rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_boom_01 {
+    width: 9.5rem;
+    height: 6rem;
+    background: url("test-ss.png") -9.95rem -26.45rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_boom_03 {
+    width: 9.5rem;
+    height: 6rem;
+    background: url("test-ss.png") -19.45rem -26.45rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_pow_02 {
+    width: 5.55rem;
+    height: 8.5rem;
+    background: url("test-ss.png") -38.8rem -0rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_pow_03 {
+    width: 5.55rem;
+    height: 8.5rem;
+    background: url("test-ss.png") -38.8rem -8.5rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_pow_01 {
+    width: 5.55rem;
+    height: 8.5rem;
+    background: url("test-ss.png") -38.8rem -17rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.ship_giant_roof {
+    width: 6.7rem;
+    height: 7.1rem;
+    background: url("test-ss.png") -44.35rem -0rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.ship_jet_full {
+    width: 6.9rem;
+    height: 3.2rem;
+    background: url("test-ss.png") -28.95rem -26.45rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.ship_enemy_full {
+    width: 6.9rem;
+    height: 3.05rem;
+    background: url("test-ss.png") -9.95rem -32.45rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.ship_giant_head {
+    width: 4.1rem;
+    height: 6.45rem;
+    background: url("test-ss.png") -44.35rem -7.1rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.button {
+    width: 6.2rem;
+    height: 2.5rem;
+    background: url("test-ss.png") -44.35rem -13.55rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.ship_jet_engine {
+    width: 1.5rem;
+    height: 1.2rem;
+    background: url("test-ss.png") -48.8rem -35rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_smoke_03 {
+    width: 1.85rem;
+    height: 1.45rem;
+    background: url("test-ss.png") -48.8rem -33.55rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.ship_enemy_body {
+    width: 6.2rem;
+    height: 2.3rem;
+    background: url("test-ss.png") -44.35rem -21.05rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_bomb {
+    width: 1.15rem;
+    height: 6.1rem;
+    background: url("test-ss.png") -48.45rem -7.1rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.ship_giant_floor {
+    width: 5.85rem;
+    height: 2.4rem;
+    background: url("test-ss.png") -44.35rem -23.35rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.turret_enemy_full {
+    width: 5.75rem;
+    height: 4.7rem;
+    background: url("test-ss.png") -44.35rem -25.75rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.turret_enemy_base {
+    width: 5.75rem;
+    height: 3.1rem;
+    background: url("test-ss.png") -44.35rem -30.45rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_shell {
+    width: 0.35rem;
+    height: 0.35rem;
+    background: url("test-ss.png") -49.6rem -9.2rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_ratata_06 {
+    width: 4.45rem;
+    height: 2.95rem;
+    background: url("test-ss.png") -44.35rem -33.55rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_ratata_07 {
+    width: 4.45rem;
+    height: 2.95rem;
+    background: url("test-ss.png") -38.8rem -30.25rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_ratata_01 {
+    width: 4.45rem;
+    height: 2.95rem;
+    background: url("test-ss.png") -38.8rem -33.2rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_ratata_02 {
+    width: 4.45rem;
+    height: 2.95rem;
+    background: url("test-ss.png") -16.85rem -32.45rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_ratata_03 {
+    width: 4.45rem;
+    height: 2.95rem;
+    background: url("test-ss.png") -21.3rem -32.45rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_ratata_04 {
+    width: 4.45rem;
+    height: 2.95rem;
+    background: url("test-ss.png") -25.75rem -32.45rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_ratata_05 {
+    width: 4.45rem;
+    height: 2.95rem;
+    background: url("test-ss.png") -30.2rem -32.45rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.ship_jet_body {
+    width: 4.1rem;
+    height: 2.15rem;
+    background: url("test-ss.png") -28.7rem -23.75rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_smoke_02 {
+    width: 3.8rem;
+    height: 3.75rem;
+    background: url("test-ss.png") -0rem -37.35rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_smoke_01 {
+    width: 2.3rem;
+    height: 3.65rem;
+    background: url("test-ss.png") -3.8rem -37.35rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.turret_enemy_gun {
+    width: 2.4rem;
+    height: 3.6rem;
+    background: url("test-ss.png") -6.1rem -37.35rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.ship_enemy_wing {
+    width: 3.4rem;
+    height: 1.7rem;
+    background: url("test-ss.png") -32.8rem -23.75rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_bullett {
+    width: 3.3rem;
+    height: 0.2rem;
+    background: url("test-ss.png") -44.35rem -36.5rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.ship_jet_exhaust {
+    width: 3rem;
+    height: 1.3rem;
+    background: url("test-ss.png") -28.95rem -29.65rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_engine_04 {
+    width: 2.45rem;
+    height: 2.85rem;
+    background: url("test-ss.png") -35.85rem -26.45rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_engine_03 {
+    width: 2.45rem;
+    height: 2.85rem;
+    background: url("test-ss.png") -34.65rem -32.45rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_engine_01 {
+    width: 2.45rem;
+    height: 2.85rem;
+    background: url("test-ss.png") -8.5rem -37.35rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.fx_particle_engine_02 {
+    width: 2.45rem;
+    height: 2.85rem;
+    background: url("test-ss.png") -10.95rem -37.35rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.ship_jet_gun {
+    width: 2.7rem;
+    height: 0.9rem;
+    background: url("test-ss.png") -38.8rem -36.15rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.ship_enemy_gun {
+    width: 2.45rem;
+    height: 0.65rem;
+    background: url("test-ss.png") -44.35rem -36.7rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.ship_jet_head {
+    width: 2.3rem;
+    height: 2.15rem;
+    background: url("test-ss.png") -13.4rem -37.35rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.ship_giant_engine {
+    width: 1.25rem;
+    height: 2.1rem;
+    background: url("test-ss.png") -49.6rem -7.1rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.ship_giant_body {
+    width: 5.4rem;
+    height: 4.75rem;
+    background: url("test-ss.png") -38.8rem -25.5rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.button:hover {
+    width: 6.2rem;
+    height: 2.5rem;
+    background: url("test-ss.png") -44.35rem -16.05rem;
+	background-size: 51.05rem 41.1rem;
+}
+
+.button:active {
+    width: 6.2rem;
+    height: 2.5rem;
+    background: url("test-ss.png") -44.35rem -18.55rem;
+	background-size: 51.05rem 41.1rem;
+}
+
